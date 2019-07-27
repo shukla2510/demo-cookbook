@@ -1,0 +1,8 @@
+name 'starter'
+description 'Installs/Configures ms'
+version '0.1.2'
+license 'All Rights Reserved'
+maintainer 'Sarvesh Shukla'
+maintainer_email 'sarveshshukla2510@gmail.com'
+lond_description 'Installs/Configures ms'
+chef_version '>- 14.0'
